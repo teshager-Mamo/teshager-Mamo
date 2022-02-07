@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teshager-Mamo
-- 👀 I’m interested in ... Phayton
+- 👀 I’m interested in ... Phayton and R
 - 🌱 I’m currently learning ... Data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
 <!---
